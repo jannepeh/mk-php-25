@@ -1,5 +1,5 @@
-<section>
-    <form>
+<section id="login-form">
+    <form action="">
         <div class="form-control">
             <label for="username">Username:</label>
             <input type="text" name="username" id="username"/>
