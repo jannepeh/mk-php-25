@@ -1,4 +1,5 @@
-<section id="login-form">
+<section id="register-form">
+    <h2>Login</h2>
     <form action="">
         <div class="form-control">
             <label for="username">Username:</label>
@@ -8,6 +9,6 @@
             <label for="password">Password:</label>
             <input type="password" name="password" id="password"/>
         </div>
-        <button type="submit">Login</button>
+        <button type="submit">Register</button>
     </form>
 </section>

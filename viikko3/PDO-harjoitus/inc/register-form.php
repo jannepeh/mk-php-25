@@ -1,4 +1,5 @@
 <section id="register-form">
+    <h2>Register</h2>
     <form action="">
         <div class="form-control">
             <label for="username">Username:</label>
